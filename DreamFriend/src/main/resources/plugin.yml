@@ -1,0 +1,4 @@
+name: DreamFriend
+version: '1.0.0-SNAPSHOT'
+main: com.dreamfirestudios.dreamFriend.DreamFriend
+api-version: '1.21'
